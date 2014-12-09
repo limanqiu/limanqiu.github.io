@@ -58,7 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="easyloader.js" />
-    <Content Include="HtmlPage1.html" />
+    <Content Include="index.html" />
     <Content Include="jquery.easing.1.3.js" />
     <Content Include="jquery.easyui.min.js" />
     <Content Include="jquery.min.js" />
